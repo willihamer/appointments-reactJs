@@ -1,3 +1,6 @@
+This project is a react application that saves in local storage medical appointments for pets that are filled in a form that has some validations. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
